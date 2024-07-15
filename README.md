@@ -16,5 +16,42 @@ This project is a simple React application featuring a `PlotPage` component that
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/react-plotpage.git
-   cd react-plotpage
+   git clone https://github.com/imrohitsampannavar45/Chart-Plotter---React.js.git
+   cd Chart-Plotter---React.js
+
+   
+2. Install the Dependencies:
+   ```sh
+   npm install
+
+
+3. Run the component:
+   ```sh
+   npm start
+
+# Folder Structure 
+
+
+react-plotpage/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   └── PlotPage.js
+│   ├── App.js
+│   ├── index.js
+│   ├── Plotpage.css
+│   └── ...
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
+
+
+# Preview Video 
+
+[Submission Video - Rohit Sampannavar.webm](https://github.com/user-attachments/assets/e74dbb41-21cf-4e8a-a1d6-b834618f6c07)
+
+
+

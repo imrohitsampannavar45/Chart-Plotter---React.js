@@ -5,12 +5,7 @@ This project is a simple React application featuring a `PlotPage` component that
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Styles](#styles)
-- [Dependencies](#dependencies)
-- [License](#license)
+- [Preview](#Preview)
 
 ## Installation
 
@@ -27,27 +22,7 @@ This project is a simple React application featuring a `PlotPage` component that
 
 3. Run the component:
    ```sh
-   npm start
-
-# Folder Structure 
-
-
-react-plotpage/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   └── PlotPage.js
-│   ├── App.js
-│   ├── index.js
-│   ├── Plotpage.css
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
+   npm start 
 
 # Preview Video 
 
